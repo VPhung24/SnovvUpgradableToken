@@ -1,0 +1,6 @@
+build/contracts
+node_modules
+.editorconfig
+.prettierrc
+yarn.lock
+g
